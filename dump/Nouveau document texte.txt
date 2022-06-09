@@ -1,0 +1,4 @@
+mot de passe pour les espaces admin:
+  1) username = apc_e_learning
+     password = apclearning2022
+ 
